@@ -1,5 +1,13 @@
+---
+title: EDA
+notebook: olives-eda.ipynb
+---
 
-# EDA
+## Contents
+{:.no_toc}
+*  
+{: toc}
+
 
 
 
